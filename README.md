@@ -10,3 +10,7 @@
 
 ### file can be changed now
 ```
+```
+ss -tlpn | grep prometheus   # see socket port number
+```
+
